@@ -1,0 +1,13 @@
+# Example config.yml
+
+# Items support IDs only.
+# Get ids from: http://minecraft-ids.grahamedgecombe.com/
+# Created by JasonFTW
+
+Settings:
+    Items:
+        - 257
+        - 270
+        - 274
+        - 278
+        - 285
