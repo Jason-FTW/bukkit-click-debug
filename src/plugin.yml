@@ -1,0 +1,5 @@
+main: com.JasonFTW.DetectInteract
+name: PlayerInteractDetection
+author: JasonFTW
+version: 1.0
+description: Logs right clicks and left clicks to the console.
