@@ -3,3 +3,5 @@ Sends a message to console when certain items are interacted with - a simple (qu
 
 This plugin will log messages to console when certain items are clicked.
 Items which log information can be added in the config.yml generated when the plugin is first run. 
+
+Should be compatible with versions 1.7.10 and up
